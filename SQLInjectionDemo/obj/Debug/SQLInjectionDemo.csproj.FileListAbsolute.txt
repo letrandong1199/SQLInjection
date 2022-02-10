@@ -1,0 +1,11 @@
+D:\MTI-project\ASPNET\SQLInjectionDemo\bin\Debug\SQLInjectionDemo.exe.config
+D:\MTI-project\ASPNET\SQLInjectionDemo\bin\Debug\SQLInjectionDemo.exe
+D:\MTI-project\ASPNET\SQLInjectionDemo\bin\Debug\SQLInjectionDemo.pdb
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.csproj.AssemblyReference.cache
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.Properties.Resources.resources
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.csproj.GenerateResource.cache
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.csproj.CoreCompileInputs.cache
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.exe
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.pdb
+D:\MTI-project\ASPNET\SQLInjectionDemo\obj\Debug\SQLInjectionDemo.LoginForm.resources

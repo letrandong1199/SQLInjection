@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLInjectionDemo", "SQLInjectionDemo\SQLInjectionDemo.csproj", "{B95A13E9-57DA-402F-A520-AAABAE9A2442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95A13E9-57DA-402F-A520-AAABAE9A2442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A13E9-57DA-402F-A520-AAABAE9A2442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A13E9-57DA-402F-A520-AAABAE9A2442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A13E9-57DA-402F-A520-AAABAE9A2442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF54BB46-5E10-4845-8B36-E6CBE36C5C52}
+	EndGlobalSection
+EndGlobal

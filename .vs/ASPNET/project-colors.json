@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b95a13e9-57da-402f-a520-aaabae9a2442": {
+      "ProjectGuid": "b95a13e9-57da-402f-a520-aaabae9a2442",
+      "DisplayName": "SQLInjectionDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
